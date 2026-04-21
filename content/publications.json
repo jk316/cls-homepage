@@ -1,0 +1,37 @@
+[
+  { "year": 2024, "papers": [
+    { "authors": "Ximeng Liu, Shizhen Zhao, Yong Cui, Xinbing Wang", "title": "FIGRET: Fine-Grained Robustness-Enhanced Traffic Engineering", "venue": "SIGCOMM 2024", "pages": "117-135" },
+    { "authors": "Li Jiang, Yihang Zhang, Yannan Hu, Yong Cui, Xinggong Zhang", "title": "StarTCP: Handover-aware Transport Protocol for Starlink", "venue": "APNet 2024", "pages": "169-170" },
+    { "authors": "Lingfeng Peng, Xiaohui Xie, Sijiang Huang, Ziyi Wang, Yong Cui", "title": "Ptu: Pre-Trained Model for Network Traffic Understanding", "venue": "ICNP 2024", "pages": "1-12" },
+    { "authors": "Tongze Wang, Xiaohui Xie, Wenduo Wang, Chuyi Wang, Youjian Zhao, Yong Cui", "title": "Netmamba: Efficient Network Traffic Classification Via Pre-Training Unidirectional Mamba", "venue": "ICNP 2024", "pages": "1-11" },
+    { "authors": "Cong Liang, Xiangli Song, Jing Cheng, Mowei Wang, Yashe Liu, Zhenhua Liu, Shizhen Zhao, Yong Cui", "title": "NegotiaToR: Towards A Simple Yet Effective On-demand Reconfigurable Datacenter Network", "venue": "ACM SIGCOMM 2024", "pages": "415-432" },
+    { "authors": "Tongze Wang, Xiaohui Xie, Lei Zhang, Chuyi Wang, Liang Zhang, Yong Cui", "title": "ShieldGPT: An LLM-based Framework for DDoS Mitigation", "venue": "APNet 2024", "pages": "1008-114" },
+    { "authors": "Yong Cui, Jiangchuan Liu, Minlan Yu, Junchen Jiang, Liang Zhang, Lu Lu", "title": "Network Digital Twin", "venue": "IEEE Netw.", "volume": "38(1)", "pages": "5-6" },
+    { "authors": "Sijiang Huang, Yunze Wei, Lingfeng Peng, Mowei Wang, Linbo Hui, Peng Liu, Zongpeng Du, Zhenhua Liu, Yong Cui", "title": "xNet: Modeling Network Performance With Graph Neural Networks", "venue": "IEEE/ACM Trans. Netw.", "volume": "32(2)", "pages": "1753-1767" }
+  ]},
+  { "year": 2023, "papers": [
+    { "authors": "Linbo Hui, Lei Zhang, Yannan Hu, Jianping Wu, Yong Cui", "title": "SAV-D: Defending DDoS with Incremental Deployment of SAV", "venue": "IEEE Internet Computing", "volume": "27(3)", "pages": "44-49" },
+    { "authors": "Ziyi Wang, Xiaohui Xie, Zhizhen Zhang, Yishuo Zhang, Zhen Cao, Wei Cheng, Wendong Wang, Yong Cui", "title": "Edge-assisted Real-time Video Analytics with Spatial-temporal Redundancy Suppression", "venue": "IEEE Internet of Things Journal", "volume": "10(7)", "pages": "6324-6335" },
+    { "authors": "Linbo Hui, Mowei Wang, Liang Zhang, Lu Lu, Yong Cui", "title": "Digital Twin for Networking: A Data-driven Performance Modeling Perspective", "venue": "IEEE Network", "volume": "37(3)", "pages": "202-209" },
+    { "authors": "Sijiang Huang, Lingfeng Peng, Mowei Wang, Yashe Liu, Zhenhua Liu, Xin Wang, Yong Cui", "title": "Datacenter Network Deserves Better Traffic Models", "venue": "HotNets 2023", "pages": "124-130" },
+    { "authors": "Ziyi Wang, Songyu Zhang, Jing Cheng, Zhixiong Wu, Zhen Cao, Yong Cui", "title": "Edge-Assisted Adaptive Configuration for Serverless-Based Video Analytics", "venue": "ICDCS 2023", "pages": "248-258" },
+    { "authors": "Jiangkai Wu, Yu Guan, Qi Mao, Yong Cui, Zongming Guo, Xinggong Zhang", "title": "ZGaming: Zero-Latency 3D Cloud Gaming by Image Prediction", "venue": "SIGCOMM 2023", "pages": "710-723" }
+  ]},
+  { "year": 2022, "papers": [
+    { "authors": "Zhiwen Liu, Mowei Wang, Yong Cui", "title": "Locality Matters! Traffic Demand Modeling in Datacenter Networks", "venue": "APNet 2022" },
+    { "authors": "Lei Zhang, Yong Cui, Mowei Wang, et al.", "title": "DeepCC: Bridging the Gap Between Congestion Control and Applications via Multi-Objective Optimization", "venue": "IEEE/ACM Transactions on Networking (ToN)", "date": "April 2022" },
+    { "authors": "Sijiang Huang, Mowei Wang, Yong Cui", "title": "Traffic-aware Buffer Management in Shared Memory Switches", "venue": "IEEE/ACM Transactions on Networking (ToN)", "date": "May 2022" },
+    { "authors": "Feixue Han, Mowei Wang, Yong Cui, et al.", "title": "Future Data Center Networking: From Low Latency to Deterministic Latency", "venue": "IEEE Network", "volume": "36(1)", "pages": "52-58" }
+  ]},
+  { "year": 2021, "papers": [
+    { "authors": "SeungSeob Lee, Hang Shi, Kun Tan, Yunxin Liu, SuKyoung Lee, Yong Cui", "title": "S2Net: Preserving Privacy in Smart Home Routers", "venue": "IEEE Transactions on Dependable and Secure Computing", "volume": "18(3)", "pages": "1409-1424" },
+    { "authors": "Hang Shi, Lei Zhang, Xutong Zuo, Qian Wu, Hewu Li, Yong Cui", "title": "Multipath Deadline-Aware Transport Proxy for Space Network", "venue": "IEEE Internet Computing", "volume": "25(6)", "pages": "51-57" },
+    { "authors": "Tong Li, Kai Zheng, Ke Xu, Yong Cui", "title": "Acknowledgment on Demand for Transport Control", "venue": "IEEE Internet Computing", "volume": "25(2)", "pages": "109-115" },
+    { "authors": "Yimin Jiang, Yibo Zhu, Chang Lan, Bairen Yi, Yong Cui, Chuanxiong Guo", "title": "A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters", "venue": "USENIX OSDI 2021" }
+  ]},
+  { "year": 2020, "papers": [
+    { "authors": "Zeqi Lai, Y. Charlie Hu, Yong Cui, et al.", "title": "Furion: Engineering High-Quality Immersive Virtual Reality on Today's Mobile Devices", "venue": "IEEE Transactions on Mobile Computing (TMC)", "volume": "19(7)", "pages": "1586-1602" },
+    { "authors": "Jinlong E, Yong Cui, Zhenhua Li, et al.", "title": "HyCloud: Tweaking Hybrid Cloud Storage Services for Cost-Efficient Filesystem Hosting", "venue": "IEEE/ACM Transactions On Networking (TON)", "volume": "28(6)", "pages": "2629-2642" },
+    { "authors": "Ziyi Wang, Yong Cui, Xiaoyu Hu, et al.", "title": "MultiLive: Adaptive Bitrate Control for Low-delay Multi-party Interactive Live Streaming", "venue": "IEEE INFOCOM 2020", "pages": "1093-1102" }
+  ]}
+]

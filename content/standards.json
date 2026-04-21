@@ -1,0 +1,25 @@
+{
+  "rfc": [
+    { "code": "RFC5565", "title": "Softwire Mesh Framework", "date": "June 2009" },
+    { "code": "RFC5747", "title": "4over6 Transit Solution using IP Encapsulation and MP-BGP Extensions", "date": "Mar 2010" },
+    { "code": "RFC7040", "title": "Public IPv4-over-IPv6 Access Network", "date": "Nov 2013" },
+    { "code": "RFC7383", "title": "Handling Unknown DHCPv6 Messages", "date": "Jul 2014" },
+    { "code": "RFC7341", "title": "DHCPv4-over-DHCPv6 (DHCP 4o6) Transport", "date": "Aug 2014" },
+    { "code": "RFC7596", "title": "Lightweight 4over6: An Extension to the Dual-Stack Lite Architecture", "date": "Jul 2015" },
+    { "code": "RFC7618", "title": "Dynamic Allocation of Shared IPv4 Addresses", "date": "Aug 2015" },
+    { "code": "RFC7856", "title": "Softwire Mesh Management Information Base (MIB)", "date": "May 2016" },
+    { "code": "RFC8168", "title": "DHCPv6 Prefix-Length Hint Issues", "date": "May 2017" },
+    { "code": "RFC8539", "title": "Softwire Provisioning Using DHCPv4 over DHCPv6", "date": "Mar 2019" },
+    { "code": "RFC8638", "title": "IPv4 Multicast over an IPv6 Multicast in Softwire Mesh Networks", "date": "Sep 2019" }
+  ],
+  "national": [
+    { "code": "GB/T 44866.1-2024", "title": "面向单栈IPv6网络的4over6技术要求 第1部分：基于IPv6骨干网的IPv4网络互联", "date": "2024年发布" },
+    { "code": "GB/T 44866.3-2024", "title": "面向单栈IPv6网络的4over6技术要求 第3部分：基于IPv6网络的IPv4地址动态分配", "date": "2024年发布" }
+  ],
+  "industry": [
+    { "code": "YD/T 1656-2007", "title": "采用边界网关协议多协议扩展的基于IPv6骨干网的IPv4网络互联（4over6）技术要求" },
+    { "code": "YD/T 2029-2009", "title": "基于软技术的IPv6 过渡技术框架" },
+    { "code": "YD/T 2030-2009", "title": "互联网中文电子邮件地址格式总技术要求" },
+    { "code": "YD/T", "title": "基于承载网感知的P2P流量优化技术框架" }
+  ]
+}

@@ -1,0 +1,26 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="color-scheme" content="dark light"><link rel="icon" type="image/svg+xml" href="/__miniserve_internal/favicon.ico"><link rel="stylesheet" href="/__miniserve_internal/style.css"><title>404 Not Found</title>
+                <script>
+                    // updates the color scheme by setting the theme data attribute
+                    // on body and saving the new theme to local storage
+                    function updateColorScheme(name) {
+                        if (name && name != "default") {
+                            localStorage.setItem('theme', name);
+                            document.body.setAttribute("data-theme", name)
+                        } else {
+                            localStorage.removeItem('theme');
+                            document.body.removeAttribute("data-theme")
+                        }
+                    }
+
+                    // read theme from local storage and apply it to body
+                    function loadColorScheme() {
+                        var name = localStorage.getItem('theme');
+                        updateColorScheme(name);
+                    }
+
+                    // load saved theme on page load
+                    addEventListener("load", loadColorScheme);
+                    // load saved theme when local storage is changed (synchronize between tabs)
+                    addEventListener("storage", loadColorScheme);
+                </script>
+            </head><body><div class="error"><p>404 Not Found</p><p>Route /images/%E4%BD%8E%E6%97%B6%E5%BB%9A.png could not be found</p><div class="error-nav"><a class="error-back" href="/">Go back to file listing</a></div><p class="footer"><div class="version">miniserve/0.29.0</div></p></div></body></html>
