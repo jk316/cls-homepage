@@ -21,17 +21,142 @@
     { "authors": "Zhiwen Liu, Mowei Wang, Yong Cui", "title": "Locality Matters! Traffic Demand Modeling in Datacenter Networks", "venue": "APNet 2022" },
     { "authors": "Lei Zhang, Yong Cui, Mowei Wang, et al.", "title": "DeepCC: Bridging the Gap Between Congestion Control and Applications via Multi-Objective Optimization", "venue": "IEEE/ACM Transactions on Networking (ToN)", "date": "April 2022" },
     { "authors": "Sijiang Huang, Mowei Wang, Yong Cui", "title": "Traffic-aware Buffer Management in Shared Memory Switches", "venue": "IEEE/ACM Transactions on Networking (ToN)", "date": "May 2022" },
-    { "authors": "Feixue Han, Mowei Wang, Yong Cui, et al.", "title": "Future Data Center Networking: From Low Latency to Deterministic Latency", "venue": "IEEE Network", "volume": "36(1)", "pages": "52-58" }
+    { "authors": "Feixue Han, Mowei Wang, Yong Cui, et al.", "title": "Future Data Center Networking: From Low Latency to Deterministic Latency", "venue": "IEEE Network", "volume": "36(1)", "pages": "52-58" },
+    { "authors": "Xutong Zuo, Jiayu Yang, Mowei Wang, Yong Cui", "title": "Adaptive Bitrate with User-level QoE Preference for Video Streaming", "venue": "IEEE INFOCOM 2022" },
+    { "authors": "Xutong Zuo, Yong Cui, Xin Wang, Jiayu Yang", "title": "Deadline-aware Multipath Transmission for Streaming Blocks", "venue": "IEEE INFOCOM 2022" },
+    { "authors": "Mowei Wang, Linbo Hui, Yong Cui, et al.", "title": "xNet: Improving Expressiveness and Granularity for Network Modeling with Graph Neural Networks", "venue": "IEEE INFOCOM 2022" },
+    { "authors": "Mowei Wang, Sijiang Huang, Yong Cui, et al.", "title": "Learning Buffer Management Policies for Shared Memory Switches", "venue": "IEEE INFOCOM 2022" },
+    { "authors": "Ziyi Wang, Yong Cui, Xiaoyu Hu, et al.", "title": "MultiLive: Adaptive Bitrate Control for Low-Delay Multi-Party Interactive Live Streaming", "venue": "IEEE/ACM Transactions on Networking (ToN)", "volume": "30(2)", "pages": "923-938" }
   ]},
   { "year": 2021, "papers": [
     { "authors": "SeungSeob Lee, Hang Shi, Kun Tan, Yunxin Liu, SuKyoung Lee, Yong Cui", "title": "S2Net: Preserving Privacy in Smart Home Routers", "venue": "IEEE Transactions on Dependable and Secure Computing", "volume": "18(3)", "pages": "1409-1424" },
     { "authors": "Hang Shi, Lei Zhang, Xutong Zuo, Qian Wu, Hewu Li, Yong Cui", "title": "Multipath Deadline-Aware Transport Proxy for Space Network", "venue": "IEEE Internet Computing", "volume": "25(6)", "pages": "51-57" },
     { "authors": "Tong Li, Kai Zheng, Ke Xu, Yong Cui", "title": "Acknowledgment on Demand for Transport Control", "venue": "IEEE Internet Computing", "volume": "25(2)", "pages": "109-115" },
-    { "authors": "Yimin Jiang, Yibo Zhu, Chang Lan, Bairen Yi, Yong Cui, Chuanxiong Guo", "title": "A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters", "venue": "USENIX OSDI 2021" }
+    { "authors": "Yimin Jiang, Yibo Zhu, Chang Lan, Bairen Yi, Yong Cui, Chuanxiong Guo", "title": "A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters", "venue": "USENIX OSDI 2021" },
+    { "authors": "Sijiang Huang, Mowei Wang, Yong Cui", "title": "Traffic-aware Buffer Management in Shared Memory Switches", "venue": "IEEE INFOCOM 2021", "pages": "1-10" },
+    { "authors": "Hongyi Huang, Wenfei Wu, Yongchao He, et al.", "title": "NFD: Using Behavior Models to Develop Cross-Platform Network Functions", "venue": "IEEE INFOCOM 2021", "pages": "1-10" },
+    { "authors": "Zhenjie Yang, Yong Cui, Xin Wang, Minming Li, Yadong Liu", "title": "Less is More: Service Profit Maximization in Geo-Distributed Clouds", "venue": "IEEE Transactions on Cloud Computing (TCC)" }
   ]},
   { "year": 2020, "papers": [
     { "authors": "Zeqi Lai, Y. Charlie Hu, Yong Cui, et al.", "title": "Furion: Engineering High-Quality Immersive Virtual Reality on Today's Mobile Devices", "venue": "IEEE Transactions on Mobile Computing (TMC)", "volume": "19(7)", "pages": "1586-1602" },
     { "authors": "Jinlong E, Yong Cui, Zhenhua Li, et al.", "title": "HyCloud: Tweaking Hybrid Cloud Storage Services for Cost-Efficient Filesystem Hosting", "venue": "IEEE/ACM Transactions On Networking (TON)", "volume": "28(6)", "pages": "2629-2642" },
-    { "authors": "Ziyi Wang, Yong Cui, Xiaoyu Hu, et al.", "title": "MultiLive: Adaptive Bitrate Control for Low-delay Multi-party Interactive Live Streaming", "venue": "IEEE INFOCOM 2020", "pages": "1093-1102" }
+    { "authors": "Ziyi Wang, Yong Cui, Xiaoyu Hu, et al.", "title": "MultiLive: Adaptive Bitrate Control for Low-delay Multi-party Interactive Live Streaming", "venue": "IEEE INFOCOM 2020", "pages": "1093-1102" },
+    { "authors": "Zeqi Lai, Y. Charlie Hu, Yong Cui, Linhui Sun, Ningwei Dai", "title": "Furion: Engineering High-Quality Immersive Virtual Reality on Today's Mobile Devices", "venue": "ACM Mobicom", "pages": "409-421" }
+  ]},
+  { "year": 2019, "papers": [
+    { "authors": "Lei Zhang, Mowei Wang, Zhenjie Yang, Yong Jiang, Yong Cui", "title": "Machine Learning for Internet Congestion Control: Techniques and Challenges", "venue": "IEEE Internet Computing", "volume": "23(5)", "pages": "59-64" },
+    { "authors": "Zhenjie Yang, Yong Cui, Shihan Xiao, et al.", "title": "WiRo: Achieving Efficient Routing in Recongurable DCNs", "venue": "ACM Sigmetrics 2019" },
+    { "authors": "Gang Yi, Dan Yang, Abdelhak Bentaleb, et al.", "title": "The ACM Multimedia 2019 Live Video Streaming Grand Challenge", "venue": "ACM Multimedia", "pages": "2622-2626" },
+    { "authors": "Zhenjie Yang, Yong Cui, Xin Wang, et al.", "title": "Cost-Efficient Scheduling of Bulk Transfers in Inter-Datacenter WANs", "venue": "IEEE/ACM Transactions On Networking (TON)", "volume": "27(5)", "pages": "1973-1986" },
+    { "authors": "Hang Shi, Feng Qian, Yong Cui, Yuming Hu", "title": "DTP: Deadline-aware Transport Protocol", "venue": "APNet 2019", "pages": "1-7" },
+    { "authors": "Yong Cui, Ningwei Dai, Zeqi Lai, et al.", "title": "TailCutter: Wisely Cutting Tail Latency in Cloud CDNs Under Cost Constraints", "venue": "IEEE/ACM Transactions on Networking (ToN)", "volume": "27(4)", "pages": "1612-1628" },
+    { "authors": "Zenghua Xia, Chang Liu, Neil Zhenqiang Gong, Qi Li, Yong Cui, Dawn Song", "title": "Characterizing and Detecting Malicious Accounts in Privacy-Centric Mobile Social Networks: A Case Study", "venue": "ACM KDD", "pages": "2012-2022" },
+    { "authors": "Zhenjie Yang, Yong Cui, Xin Wang, et al.", "title": "Towards Maximal Service Profit in Geo-Distributed Clouds", "venue": "IEEE ICDCS 2019", "pages": "442-452" },
+    { "authors": "Yimin Jiang, Yong Cui, Wenfei Wu, et al.", "title": "SpeedyBox: Low-Latency NFV Service Chains with Cross-NF Runtime Consolidation", "venue": "IEEE ICDCS 2019", "pages": "68-79" },
+    { "authors": "Ziyi Wang, Yong Cui, Zeqi Lai", "title": "A First Look at Mobile Intelligence: Architecture, Experimentation and Challenges", "venue": "IEEE Network", "volume": "33(4)", "pages": "120-125" },
+    { "authors": "Jinlong E, Yong Cui, Mingkang Ruan, et al.", "title": "HyCloud: Tweaking Hybrid Cloud Storage Services for Cost-Efficient Filesystem Hosting", "venue": "IEEE INFOCOM 2019", "pages": "2341-2349" },
+    { "authors": "Yong Cui, Yimin Jiang, Zeqi Lai, et al.", "title": "Wireless Network Instabilities in the Wild: Measurement, Applications (Non)Resilience, and OS Remedy", "venue": "IEEE/ACM Transactions On Networking (TON)", "volume": "27(1)", "pages": "214-230" }
+  ]},
+  { "year": 2018, "papers": [
+    { "authors": "Xutong Zuo, Yong Cui, Mowei Wang, et al.", "title": "Low-Latency Networking: Architecture, Techniques, and Opportunities", "venue": "IEEE Internet Computing", "volume": "22(5)", "pages": "56-63" },
+    { "authors": "Yifei Zhu, Silvery Fu, Jiangchuan Liu, Yong Cui", "title": "Truthful Online Auction Toward Maximized Instance Utilization in the Cloud", "venue": "IEEE/ACM Transactions On Networking (TON)", "volume": "26(5)", "pages": "2132-2145" },
+    { "authors": "Zeqi Lai, Yong Cui, Ziyi Wang, et al.", "title": "Immersion on the Edge: A Cooperative Framework for Mobile Immersive Computing", "venue": "ACM SIGCOMM 2018 poster", "pages": "39-41" },
+    { "authors": "Mowei Wang, Yong Cui, Xin Wang, et al.", "title": "Machine Learning for Networking: Workflow, Advances and Opportunities", "venue": "IEEE Network", "volume": "32(2)", "pages": "92-99" },
+    { "authors": "Mowei Wang, Yong Cui, Shihan Xiao, et al.", "title": "Neural Network Meets DCN: Traffic-driven Topology Adaptation with Deep Learning", "venue": "ACM Sigmetrics 2018", "volume": "2(2)", "pages": "1-25" },
+    { "authors": "Hang Shi, Yong Cui, Xin Wang, et al.", "title": "STMS: Improving MPTCP Throughput Under Heterogeneous Networks", "venue": "USENIX ATC 2018" },
+    { "authors": "Mingkang Ruan, Thierry Titcheu, Ennan Zhai, et al.", "title": "On the Synchronization Bottleneck of OpenStack Swift-Like Cloud Storage Systems", "venue": "IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)", "volume": "29(9)", "pages": "2059-2074" },
+    { "authors": "Jinlong E, Yong Cui, Peng Wang, et al.", "title": "CoCloud: Enabling Efficient Cross-Cloud File Collaboration Based on Inefficient Web APIs", "venue": "IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)", "volume": "29(1)", "pages": "56-69" },
+    { "authors": "Cong Liu, Yong Cui, Kun Tan, et al.", "title": "Building Generic Scalable Middlebox Services Over Encrypted Protocols", "venue": "IEEE INFOCOM 2018", "pages": "2195-2203" },
+    { "authors": "Yong Cui, Shihan Xiao, Xin Wang, et al.", "title": "Diamond: Nesting the Data Center Network With Wireless Rings in 3-D Space", "venue": "IEEE/ACM Transactions On Networking (TON)", "volume": "26(1)", "pages": "145-160" },
+    { "authors": "Yong Cui, Jian Song, Minming Li, et al.", "title": "SDN-Based Big Data Caching in ISP Networks", "venue": "IEEE Transactions on Big Data", "volume": "4(3)", "pages": "356-367" },
+    { "authors": "Cong Wang, Xingliang Yuan, Yong Cui, Kui Ren", "title": "Toward Secure Outsourced Middlebox Services: Practices, Challenges, and Beyond", "venue": "IEEE Network", "volume": "32(1)", "pages": "166-171" }
+  ]},
+  { "year": 2017, "papers": [
+    { "authors": "Jingyuan Fan, Chaowen Guan, Kui Ren, Yong Cui, Chunming Qiao", "title": "SPABox: Safeguarding Privacy During Deep Packet Inspection at a MiddleBox", "venue": "IEEE/ACM Transactions On Networking (TON)", "volume": "25(6)", "pages": "3753-3766" },
+    { "authors": "Yong Cui, Zhenjie Yang, Shihan Xiao, et al.", "title": "Traffic-Aware Virtual Machine Migration in Topology-Adaptive DCN", "venue": "IEEE/ACM Transactions on Networking (TON)", "volume": "25(6)", "pages": "3427-3440" },
+    { "authors": "Zeqi Lai, Yong Cui, Yimin Jiang, et al.", "title": "Wireless network instabilities in the wild: Prevalence, App (non)resilience, and OS remedy", "venue": "IEEE ICNP 2017", "pages": "1-10" },
+    { "authors": "Zeqi Lai, Y. Charlie Hu, Yong Cui, Linhui Sun, Ningwei Dai", "title": "Furion: Engineering High-Quality Immersive Virtual Reality on Today's Mobile Devices", "venue": "ACM Mobicom", "pages": "409-421" },
+    { "authors": "Yong Cui, Zeqi Lai, Xin Wang, et al.", "title": "QuickSync: Improving Synchronization Efficiency for Mobile Cloud Storage Services", "venue": "IEEE Transactions on Mobile Computing (TMC)", "volume": "16(12)", "pages": "3513-3526" },
+    { "authors": "Yong Cui, Tianxiang Li, Cong Liu, et al.", "title": "Innovating Transport with QUIC: Design Approaches and Research Challenges", "venue": "IEEE Internet Computing", "volume": "21(2)", "pages": "72-76" },
+    { "authors": "Yong Cui, Jian Song, Kui Ren, et al.", "title": "Software Defined Cooperative Offloading for Mobile Cloudlets", "venue": "IEEE/ACM Transactions on Networking (TON)", "volume": "25(3)", "pages": "1746-1760" },
+    { "authors": "Yong Cui, Shihan Xiao, Xin Wang, et al.", "title": "Performance-Aware Energy Optimization on Mobile Devices in Cellular Network", "venue": "IEEE Transactions on Mobile Computing (TMC)", "volume": "16(4)", "pages": "1073-1089" },
+    { "authors": "Jinlong E, Yong Cui, Peng Wang, et al.", "title": "CoCloud: Enabling efficient cross-cloud file collaboration based on inefficient web APIs", "venue": "IEEE INFOCOM 2017", "pages": "1-9" }
+  ]},
+  { "year": 2016, "papers": [
+    { "authors": "Shihan Xiao, Yong Cui, Zhenjie Yang", "title": "Traffic-aware Virtual Machine Migration in Topology-adaptive SDN", "venue": "IEEE ICNP 2016" },
+    { "authors": "Heyi Tang, Yong Cui, Chaowen Guan, et al.", "title": "Enabling Ciphertext Deduplication for Secure Cloud Storage and Access Control", "venue": "AsiaCCS 2016", "pages": "59-70" },
+    { "authors": "Jun Tang, Yong Cui, Qi Li, et al.", "title": "Ensuring Security and Privacy Preservation for Cloud Data Services", "venue": "ACM Computing Surveys", "volume": "49(1)", "pages": "1-39" },
+    { "authors": "Jiang Dong, Yu Xiao, Zhonghong Ou, Yong Cui, Antti Yla-Jaaarski", "title": "Indoor Tracking Using Crowdsourced Maps", "venue": "IPSN 2016", "pages": "1-6" },
+    { "authors": "Yong Cui, Shihan Xiao, Xin Wang, et al.", "title": "Diamond: Nesting the Data Center Network with Wireless Rings in 3D Space", "venue": "USENIX NSDI 2016", "pages": "657-669" },
+    { "authors": "Zeqi Lai, Yong Cui, Minming Li, et al.", "title": "TailCutter: Wisely cutting tail latency in cloud CDN under cost constraints", "venue": "IEEE INFOCOM 2016", "pages": "1-9" },
+    { "authors": "Thierry Titcheu Chekam, Ennan Zhai, Zhenhua Li, Yong Cui, Kui Ren", "title": "On the synchronization bottleneck of OpenStack Swift-like cloud storage systems", "venue": "IEEE INFOCOM 2016", "pages": "1-9" },
+    { "authors": "Yong Cui, Zeqi Lai, Ningwei Dai, et al.", "title": "A first look at mobile cloud storage services: architecture, experimentation, and challenges", "venue": "IEEE Network", "volume": "30(4)", "pages": "16-21" },
+    { "authors": "Yong Cui, Lian Wang, Xin Wang, et al.", "title": "End-to-end coding for TCP", "venue": "IEEE Network", "volume": "30(2)", "pages": "68-73" }
+  ]},
+  { "year": 2015, "papers": [
+    { "authors": "Yong Cui, Zeqi Lai, Xin Wang, et al.", "title": "QuickSync: Improving Synchronization Efficiency for Mobile Cloud Storage Services", "venue": "ACM MobiCom", "pages": "592-603" },
+    { "authors": "Yong Cui, Wendong Wang, Qi Sun, et al.", "title": "IPv4 Address Sharing and Allocation for IPv6 Transition", "venue": "IEEE Internet Computing", "volume": "19(5)", "pages": "66-71" },
+    { "authors": "Yong Cui, Yuchi Chen, Jiangchuan Liu, et al.", "title": "State management in IPv4 to IPv6 transition", "venue": "IEEE Network", "volume": "29(6)", "pages": "48-53" },
+    { "authors": "Yong Cui, Xiao Ma, Xiuzhen Cheng, et al.", "title": "Cooperative Coverage Extension for Relay-Union Networks", "venue": "IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)", "volume": "26(2)", "pages": "371-381" },
+    { "authors": "Yong Cui, Lian Wang, Xin Wang, et al.", "title": "FMTCP: A Fountain Code-Based Multipath Transmission Control Protocol", "venue": "IEEE/ACM Transactions on Networking (ToN)", "volume": "23(2)", "pages": "465-478" },
+    { "authors": "Chaokun Zhang, Yong Cui, Heyi Tang, Jianping Wu", "title": "State-of-the-Art Survey on Software-Defined Networking (SDN)", "venue": "Journal of Software (in Chinese)", "volume": "26(1)", "pages": "62-81" }
+  ]},
+  { "year": 2014, "papers": [
+    { "authors": "Dan Li, Mingwei Xu, Ying Liu, Xia Xie, Yong Cui, Jingyi Wang, Guihai Chen", "title": "Reliable Multicast in Data Center Networks", "venue": "IEEE Transactions on Computers (IEEE TC)", "volume": "63(8)", "pages": "2011-2024" },
+    { "authors": "Yong Cui, Qi Sun, Ke Xu, et al.", "title": "Configuring IPv4 over IPv6 Networks: Transitioning with DHCP", "venue": "IEEE Internet Computing", "volume": "18(3)", "pages": "84-88" },
+    { "authors": "Ke Xu, Meng Shen, Yong Cui, Mingjiang Ye, Yifeng Zhong", "title": "A Model Approach to the Estimation of Peer-to-Peer Traffic Matrices", "venue": "IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)", "volume": "25(5)", "pages": "1101-1111" },
+    { "authors": "Yong Cui, Shihan Xiao, Xin Wang, et al.", "title": "Performance-aware energy optimization on mobile devices in cellular network", "venue": "IEEE INFOCOM 2014", "pages": "1123-1131" },
+    { "authors": "Florin Ciucu, Ramin Khalili, Yuming Jiang, Liu Yang, Yong Cui", "title": "Towards a system theoretic approach to wireless network capacity in finite time and space", "venue": "IEEE INFOCOM 2014", "pages": "2391-2399" },
+    { "authors": "Guangwu Hu, Ke Xu, Jianping Wu, Yong Cui, Fan Shi", "title": "A general framework of source address validation and traceback for IPv4/IPv6 transition scenarios", "venue": "IEEE Network", "volume": "27(6)", "pages": "66-73" },
+    { "authors": "Ming Li, Andrey Lukyanenko, Sasu Tarkoma, Yong Cui, Antti Yla-Jaaarski", "title": "Tolerating Path Heterogeneity in Multipath TCP with Bounded Receive Buffers", "venue": "Computer Networks", "volume": "64", "pages": "1-14" },
+    { "authors": "Qi Li, Mingwei Xu, Yuan Yang, Lixin Gao, Yong Cui, Jianping Wu", "title": "Safe and Practical Energy-Efficient Detour Routing in IP Networks", "venue": "IEEE/ACM Transactions on Networking (ToN)", "volume": "22(6)", "pages": "1925-1937" },
+    { "authors": "Qiang Liu, Xin Wang, Yong Cui", "title": "Robust and Adaptive Scheduling of Sequential Periodic Sensing for Cognitive Radios", "venue": "IEEE Journal on Selected Areas in Communications (JSAC)", "volume": "32(3)", "pages": "503-515" },
+    { "authors": "Yu Xiao, Yong Cui, Petri Savolainen, et al.", "title": "Modeling Energy Consumption of Data Transmission Over Wi-Fi", "venue": "IEEE Transactions on Mobile Computing (TMC)", "volume": "13(8)", "pages": "1760-1773" },
+    { "authors": "Wei Li, Shengling Wang, Yong Cui, et al.", "title": "AP Association for Proportional Fairness in Multirate WLANs", "venue": "IEEE/ACM Transactions On Networking (TON)", "volume": "22(1)", "pages": "191-202" }
+  ]},
+  { "year": 2013, "papers": [
+    { "authors": "Yong Cui, Shihan Xiao, Chunpeng Liao, et al.", "title": "Data Centers as Software Defined Networks: Traffic Redundancy Elimination with Wireless Cards at Routers", "venue": "IEEE Journal on Selected Areas in Communications (JSAC)", "volume": "31(12)", "pages": "2658-2672" },
+    { "authors": "Ryan Shea, Jiangchuan Liu, Edith C. H. Ngai, Yong Cui", "title": "Cloud gaming: architecture and performance", "venue": "IEEE Network", "volume": "27(4)", "pages": "46-51" },
+    { "authors": "Yong Cui, Hongyi Wang, Xiuzhen Cheng, et al.", "title": "Dynamic Scheduling for Wireless Data Center Networks", "venue": "IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)", "volume": "24(12)", "pages": "2365-2374" },
+    { "authors": "Qiang Liu, Xin Wang, Yong Cui", "title": "Scheduling of sequential periodic sensing for cognitive radios", "venue": "IEEE INFOCOM 2013", "pages": "2256-2264" },
+    { "authors": "Wei Li, Xiuzhen Cheng, Tao Jing, Yong Cui, Kai Xing, Wendong Wang", "title": "Spectrum Assignment and Sharing for Delay Minimization in Multi-Hop Multi-Flow CRNs", "venue": "IEEE Journal on Selected Areas in Communications (JSAC)", "volume": "31(11)", "pages": "2483-2493" },
+    { "authors": "Peng Wu, Yong Cui, Jianping Wu, et al.", "title": "Transition from IPv4 to IPv6: A State-of-the-Art Survey", "venue": "IEEE Communications Surveys and Tutorials", "volume": "15(3)", "pages": "1407-1424" },
+    { "authors": "Yong Cui, Jiang Dong, Peng Wu, et al.", "title": "Tunnel-based IPv6 Transition", "venue": "IEEE Internet Computing", "volume": "17(2)", "pages": "62-68" },
+    { "authors": "Qiong Sun, Chongfeng Xie, Yong Cui, Yuchi Chen, et al.", "title": "Lightweight 4over6 Efforts Debuted at IETF 85: An IPv4 Service Continuity Solution for Smooth IPv6 Transition", "venue": "IETF Journal", "volume": "8(3)", "pages": "9-11" }
+  ]},
+  { "year": 2012, "papers": [
+    { "authors": "Yong Cui, Peng Wu, Mingwei Xu, et al.", "title": "4over6: network layer virtualization for IPv4-IPv6 coexistence", "venue": "IEEE Network", "volume": "26(5)", "pages": "44-48" },
+    { "authors": "Yong Cui, Xin Wang, Hongyi Wang, et al.", "title": "FMTCP: A Fountain Code-Based Multipath Transmission Control Protocol", "venue": "IEEE ICDCS 2012", "pages": "366-375" }
+  ]},
+  { "year": 2011, "papers": [
+    { "authors": "Yong Cui, Wei Li, Xiuzhen Cheng, et al.", "title": "Achieving Proportional Fairness via AP Power Control in Multi-Rate WLANs", "venue": "IEEE Transactions on Wireless Communications (TWC)", "volume": "10(8)", "pages": "1-9" },
+    { "authors": "Yong Cui, Hongyi Wang, Xiuzhen Cheng, et al.", "title": "Wireless data center networking", "venue": "IEEE Wireless Communications", "volume": "18(6)", "pages": "46-53" },
+    { "authors": "Yong Cui, Tianze Ma, Xiuzhen Cheng, et al.", "title": "Multi-hop access pricing in public area WLANs", "venue": "IEEE INFOCOM 2011", "pages": "2678-2686" },
+    { "authors": "Yong Cui, Hongyi Wang, Xiuzhen Cheng, et al.", "title": "Channel allocation in wireless data center networks", "venue": "IEEE INFOCOM 2011", "pages": "1395-1403" },
+    { "authors": "Bowu Zhang, Xiuzhen Cheng, Nan Zhang, Yong Cui, Yingshu Li, Qilian Liang", "title": "Sparse target counting and localization in sensor networks based on compressive sensing", "venue": "IEEE INFOCOM 2011", "pages": "2255-2263" },
+    { "authors": "Yong Cui, Wei Li, Xiuzhen Cheng, et al.", "title": "Partially overlapping channel assignment based on \"node orthogonality\" for 802.11 wireless networks", "venue": "IEEE INFOCOM 2011 Mini Conference", "pages": "361-365" },
+    { "authors": "Dan Li, Jianping Wu, Jiangchuan Liu, Yong Cui, Ke Xu", "title": "Defending Against Distance Cheating in Link-Weighted Application-Layer Multicast", "venue": "IEEE/ACM Transactions on Networking (TON)", "volume": "19(5)", "pages": "1448-1457" },
+    { "authors": "Dan Li, Jianping Wu, Yong Cui, Jiangchuan Liu, Ke Xu", "title": "Impact of user selfishness in construction action on the streaming quality of overlay multicast", "venue": "Computer Networks", "volume": "55(15)", "pages": "3318-3331" },
+    { "authors": "Shengling Wang, Yong Cui, Sajal K. Das, et al.", "title": "Mobility in IPv6: Whether and How to Hierarchize the Network?", "venue": "IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS)", "volume": "22(10)", "pages": "1722-1729" }
+  ]},
+  { "year": 2009, "papers": [
+    { "authors": "Dan Li, Jianping Wu, Yong Cui", "title": "Defending Against Buffer Map Cheating in DONet-Like P2P Streaming", "venue": "IEEE Transactions on Multimedia", "volume": "11(3)", "pages": "535-542" }
+  ]},
+  { "year": 2008, "papers": [
+    { "authors": "Qi Li, Mingwei Xu, Lingtao Pan, Yong Cui", "title": "A Study of Path Protection in Self-Healing Routing", "venue": "IFIP Networking 2008", "pages": "554-561" }
+  ]},
+  { "year": 2007, "papers": [
+    { "authors": "Pradosh Mohapatra, Chris Metz, Yong Cui, et al.", "title": "Layer 3 VPN Services over IPv6 Backbone Networks: Requirements, Technology, and Standardization Efforts", "venue": "IEEE Communications Magazine", "volume": "45(4)", "pages": "32-37" },
+    { "authors": "Dan Li, Jianping Wu, Yong Cui, et al.", "title": "QoS-Aware Streaming in Overlay Multicast Considering the Selfishness in Construction Action", "venue": "IEEE INFOCOM 2007", "pages": "1154-1162" }
+  ]},
+  { "year": 2006, "papers": [
+    { "authors": "Jianping Wu, Yong Cui, Xing Li, Chris Metz", "title": "The Transition to IPv6, Part 1: 4over6 for the China Education and Research Network", "venue": "IEEE Internet Computing", "volume": "10(3)", "pages": "80-85" },
+    { "authors": "Yong Cui, Jianping Wu, Xing Li, et al.", "title": "The Transition to IPv6, Part 2: The Softwire Mesh Framework Solution", "venue": "IEEE Internet Computing", "volume": "10(5)", "pages": "76-80" }
+  ]},
+  { "year": 2005, "papers": [
+    { "authors": "Yong Cui, Ke Xu, Jianping Wu", "title": "Precomputation for intra-domain QoS routing", "venue": "Computer Networks", "volume": "47(6)", "pages": "923-937" }
+  ]},
+  { "year": 2003, "papers": [
+    { "authors": "Yong Cui, Ke Xu, Jianping Wu", "title": "Precomputation for Multi-constrained QoS Routing in High-speed Networks", "venue": "IEEE INFOCOM 2003", "pages": "1414-1424" }
   ]}
 ]
